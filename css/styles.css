@@ -110,17 +110,16 @@ hr {
     
     
 }
-
-a {
-    text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
-}
-
 .right-border {
     border-right: 2px solid #FFFFFF;
     padding: 0 0.5rem;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
 
 a:visited {
     color: #FFFFFF
